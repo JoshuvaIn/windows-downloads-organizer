@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="547" height="234" viewBox="0 0 547 234" role="img" aria-label="Windows Terminal window showing Undo-Last-Sort.bat">
+<rect x="0.5" y="0.5" width="546" height="233" rx="8" fill="#0c0c0c" stroke="#4a4a4a"/>
+<path d="M0.5 40 V8.5 a8 8 0 0 1 8 -8 H538.5 a8 8 0 0 1 8 8 V40 Z" fill="#1f1f1f"/>
+<path d="M8 40 V13 a6 6 0 0 1 6 -6 H276 a6 6 0 0 1 6 6 V40 Z" fill="#0c0c0c"/>
+<rect x="20" y="16" width="16" height="16" rx="2" fill="#2d2d2d" stroke="#a0a0a0"/><path d="M24 21 l4 3 l-4 3" stroke="#ffffff" stroke-width="1.5" fill="none"/><path d="M30 28 h4" stroke="#ffffff" stroke-width="1.5"/>
+<text x="44" y="28" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#ffffff">Undo-Last-Sort.bat</text>
+<path d="M262 20 l8 8 m0 -8 l-8 8" stroke="#cfcfcf" stroke-width="1.2"/>
+<path d="M300 28 h10 m-5 -5 v10" stroke="#cfcfcf" stroke-width="1.3"/><path d="M326 26 l4 4 l4 -4" stroke="#cfcfcf" stroke-width="1.3" fill="none"/>
+<path d="M427 20 h10" stroke="#ffffff" stroke-width="1"/><rect x="472.5" y="15.5" width="9" height="9" fill="none" stroke="#ffffff"/><path d="M517 15 l10 10 m0 -10 l-10 10" stroke="#ffffff" stroke-width="1"/>
+<text x="20" y="68" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#cccccc">Undoing run: 2026-10-18 01:59:47 (4 files)</text>
+<text x="20" y="88" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">UNDONE     _copy\Tax return 2025.pdf -&gt; Tax return 2025.pdf</text>
+<text x="20" y="108" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">UNDONE     _copy\photo-001.jpg -&gt; photo-001.jpg</text>
+<text x="20" y="128" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">UNDONE     Documents\261015 new-report.pdf -&gt; new-report.pdf</text>
+<text x="20" y="148" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">UNDONE     Documents\261016 Budget.xlsx -&gt; Budget.xlsx</text>
+<text x="20" y="168" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#cccccc">Done. Restored: 4   Skipped: 0</text>
+<text x="20" y="188" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#cccccc"></text>
+<text x="20" y="208" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#cccccc">Press any key to continue . . .</text>
+</svg>

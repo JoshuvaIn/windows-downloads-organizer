@@ -1,0 +1,16 @@
+# The log holds real file names from whoever ran the tool, so it never goes into the repository.
+.sort/history/
+sort-log*.csv
+
+# Scratch and test output
+tests/_work/
+*.tmp
+
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Editors
+.vscode/
+.idea/

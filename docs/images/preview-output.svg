@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="632" height="434" viewBox="0 0 632 434" role="img" aria-label="Windows Terminal window showing Sort-Downloads-Preview.bat">
+<rect x="0.5" y="0.5" width="631" height="433" rx="8" fill="#0c0c0c" stroke="#4a4a4a"/>
+<path d="M0.5 40 V8.5 a8 8 0 0 1 8 -8 H623.5 a8 8 0 0 1 8 8 V40 Z" fill="#1f1f1f"/>
+<path d="M8 40 V13 a6 6 0 0 1 6 -6 H276 a6 6 0 0 1 6 6 V40 Z" fill="#0c0c0c"/>
+<rect x="20" y="16" width="16" height="16" rx="2" fill="#2d2d2d" stroke="#a0a0a0"/><path d="M24 21 l4 3 l-4 3" stroke="#ffffff" stroke-width="1.5" fill="none"/><path d="M30 28 h4" stroke="#ffffff" stroke-width="1.5"/>
+<text x="44" y="28" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#ffffff">Sort-Downloads-Preview.bat</text>
+<path d="M262 20 l8 8 m0 -8 l-8 8" stroke="#cfcfcf" stroke-width="1.2"/>
+<path d="M300 28 h10 m-5 -5 v10" stroke="#cfcfcf" stroke-width="1.3"/><path d="M326 26 l4 4 l4 -4" stroke="#cfcfcf" stroke-width="1.3" fill="none"/>
+<path d="M512 20 h10" stroke="#ffffff" stroke-width="1"/><rect x="557.5" y="15.5" width="9" height="9" fill="none" stroke="#ffffff"/><path d="M602 15 l10 10 m0 -10 l-10 10" stroke="#ffffff" stroke-width="1"/>
+<text x="20" y="68" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#61d6d6">--- PREVIEW: nothing will be changed ---</text>
+<text x="20" y="88" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE backup.zip -&gt; Archives\backup.zip</text>
+<text x="20" y="108" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE Budget.xlsx -&gt; Documents\Budget.xlsx</text>
+<text x="20" y="128" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE holiday-video.mp4 -&gt; Videos\holiday-video.mp4</text>
+<text x="20" y="148" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE index.html -&gt; Code\index.html</text>
+<text x="20" y="168" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE Lecture notes.docx -&gt; Documents\260927 Lecture notes.docx</text>
+<text x="20" y="188" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE logo.png -&gt; Images\logo.png</text>
+<text x="20" y="208" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE Main.java -&gt; Code\Main.java</text>
+<text x="20" y="228" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE mystery.xyz -&gt; Other\mystery.xyz</text>
+<text x="20" y="248" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE photo-001.jpg -&gt; Images\photo-001.jpg</text>
+<text x="20" y="268" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE Project plan.md -&gt; MarkItdown\261006 Project plan.md</text>
+<text x="20" y="288" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE script.py -&gt; Code\script.py</text>
+<text x="20" y="308" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE setup-tool.exe -&gt; Installers\setup-tool.exe</text>
+<text x="20" y="328" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE summer-song.mp3 -&gt; Audio\summer-song.mp3</text>
+<text x="20" y="348" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#16c60c">WOULD MOVE Tax return 2025.pdf -&gt; Documents\260908 Tax return 2025.pdf</text>
+<text x="20" y="368" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#cccccc">Preview: 14 would move (0 of them duplicates), 0 would stay.</text>
+<text x="20" y="388" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#cccccc"></text>
+<text x="20" y="408" xml:space="preserve" font-family="Cascadia Mono, Consolas, Courier New, monospace" font-size="14" fill="#cccccc">Press any key to continue . . .</text>
+</svg>
