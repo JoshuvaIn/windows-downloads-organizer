@@ -1,3 +1,5 @@
+[← Back to README](../README.md)
+
 # Testing
 
 ## The headline
@@ -33,3 +35,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File tests\Smoke-Test.ps1
 ```
 
 It builds a throwaway folder in your temporary files, runs 25 checks through preview, sort, copies, a clash, a locked file and undo, then deletes the folder. It never touches your own files.
+
+---
+
+[← Back to README](../README.md)

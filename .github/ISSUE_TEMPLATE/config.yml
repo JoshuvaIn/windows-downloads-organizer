@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Quick start guide
+    url: https://github.com/JoshuvaIn/windows-downloads-organizer/blob/main/docs/QUICK-START.md
+    about: Most first-time questions are answered here.

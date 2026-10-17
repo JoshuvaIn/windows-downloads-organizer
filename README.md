@@ -1,25 +1,66 @@
-﻿# Downloads Organizer for Windows 11
+﻿<div align="center">
 
-**Tidy a messy Downloads folder with one double-click. See what will happen first, undo it any time, and nothing is ever deleted.**
+<img src="docs/images/banner.png" alt="Downloads Organizer for Windows 11" width="100%">
+
+<br>
+
+<a href="https://github.com/JoshuvaIn/windows-downloads-organizer/releases/latest"><img src="https://img.shields.io/github/v/release/JoshuvaIn/windows-downloads-organizer?label=release&color=0067c0" alt="Latest release"></a>
+<img src="https://img.shields.io/badge/Windows-11-0067c0" alt="Windows 11">
+<img src="https://img.shields.io/badge/PowerShell-5.1%20built%20in-2c5aa0" alt="Windows PowerShell 5.1, built in">
+<img src="https://img.shields.io/badge/install-none%20needed-107c10" alt="Nothing to install">
+<img src="https://img.shields.io/badge/stress%20test-20%2C000%20files-6b4fbb" alt="Stress-tested with 20,000 files">
+<a href="LICENSE"><img src="https://img.shields.io/github/license/JoshuvaIn/windows-downloads-organizer?color=c19c00" alt="Licence: GPL-3.0"></a>
+
+### Tidy a messy Downloads folder with one double-click.
+See what will happen first, undo it any time, and nothing is ever deleted.
+
+<a href="https://github.com/JoshuvaIn/windows-downloads-organizer/releases/latest"><img src="https://img.shields.io/badge/Download-latest%20release-2ea44f?style=for-the-badge" alt="Download the latest release"></a>
+
+[How to use it](#how-to-use-it) · [What you get](#what-you-get) · [Quick start](docs/QUICK-START.md) · [How it works](docs/HOW-IT-WORKS.md) · [Compare](docs/COMPARISON.md) · [Testing](docs/TESTING.md)
+
+</div>
+
+<br>
 
 ![A Downloads folder before and after sorting](docs/images/before-after.svg)
 
+<table>
+<tr>
+<td width="25%" valign="top"><h3>🖱️ One double-click</h3>No app to install and no rules to write. It uses the PowerShell already in Windows 11.</td>
+<td width="25%" valign="top"><h3>👀 Preview first</h3>See every move before it happens. The preview changes nothing at all.</td>
+<td width="25%" valign="top"><h3>↩️ Undo any time</h3>Every move is logged as it happens, so even an interrupted sort can be put back.</td>
+<td width="25%" valign="top"><h3>🛡️ Never deletes</h3>Nothing is deleted or overwritten. Copies of files you already have go to <code>_copy</code>.</td>
+</tr>
+</table>
+
+## How to use it
+
+| Step | Do this | What happens |
+|:---:|---|---|
+| **1** | Copy the **`.sort`** folder into the folder you want to tidy, usually `Downloads`. | Nothing yet. |
+| **2** | Double-click **`Sort-Downloads-Preview.bat`**. | A window shows where each file would go. Nothing moves. |
+| **3** | Double-click **`Sort-Downloads.bat`**. | Your files move into `Images`, `Documents`, `Videos`, `Code` and so on. |
+| **4** | Changed your mind? Double-click **`Undo-Last-Sort.bat`**. | Everything goes back where it was, with its original name. |
+
+![The preview window](docs/images/preview-output.svg)
+
+> [!TIP]
+> Windows may show a blue **Windows protected your PC** box the first time. Choose **More info**, then **Run anyway**. The scripts are plain text, so you can open them in Notepad first if you like.
+
 ## What you get
 
-| You get | What it is |
-|---|---|
-| `Sort-Downloads-Preview.bat` | Double-click to see exactly what would move. Nothing changes. |
-| `Sort-Downloads.bat` | Double-click to sort the folder. |
-| `Undo-Last-Sort.bat` | Double-click to put the last sort back. |
-| `Sort-Downloads.ps1` and `Undo-Last-Sort.ps1` | The plain-text scripts behind those buttons. Open them in Notepad to read them, or to change which file types go where. |
-| `history\sort-log.csv` | A record of every move, made the first time you sort. Undo uses it. |
-| Guides in `docs\` | A one-page quick start, how every rule works, a comparison with other tools, and the test notes. |
-| `tests\Smoke-Test.ps1` | A one-minute check you can run on a throwaway folder to see it work. |
-| Release ZIP | Just the `.sort` folder, for anyone who would rather not use git. |
+| | File | What it does |
+|:---:|---|---|
+| ▶️ | `Sort-Downloads-Preview.bat` | Double-click to see exactly what would move. Nothing changes. |
+| ▶️ | `Sort-Downloads.bat` | Double-click to sort the folder. |
+| ▶️ | `Undo-Last-Sort.bat` | Double-click to put the last sort back. |
+| 📄 | `Sort-Downloads.ps1`, `Undo-Last-Sort.ps1` | The plain-text scripts behind the buttons. Open them in Notepad to read them or change which file types go where. |
+| 🗂️ | `history\sort-log.csv` | A record of every move, made the first time you sort. Undo uses it. |
+| 📘 | `docs\` | A one-page quick start, every rule in plain English, a comparison with other tools and the test notes. |
+| ✅ | `tests\Smoke-Test.ps1` | A one-minute check that runs on a throwaway folder. |
+| 📦 | Release ZIP | Just the `.sort` folder, for anyone who would rather not use git. |
 
 ## How the folders look
-
-Copy the `.sort` folder into the folder you want to tidy, usually `Downloads`:
 
 ```
 Downloads\
@@ -34,7 +75,8 @@ Downloads\
     photo.jpg
 ```
 
-After the first sort:
+<details>
+<summary><b>And after the first sort</b></summary>
 
 ```
 Downloads\
@@ -46,41 +88,43 @@ Downloads\
     _copy\        (only appears if you download the same file twice)
 ```
 
-## How to use it
+</details>
 
-1. Copy the **`.sort`** folder into the folder you want to tidy.
-2. Double-click **`Sort-Downloads-Preview.bat`** to see what would happen.
-3. Happy? Double-click **`Sort-Downloads.bat`**.
-4. Changed your mind? Double-click **`Undo-Last-Sort.bat`**.
+<details>
+<summary><b>Where each file type goes</b></summary>
 
-![The preview window](docs/images/preview-output.svg)
+| Folder | What goes in |
+|---|---|
+| `Images` | jpg, png, gif, svg, webp, heic and other pictures |
+| `Videos` | mp4, mkv, mov, avi and other video |
+| `Audio` | mp3, wav, flac, m4a and other sound |
+| `Documents` | pdf, Word, PowerPoint, Excel, csv, txt, epub and similar |
+| `MarkItdown` | Markdown (`.md`) files |
+| `Code` | Python, JavaScript, Java, C, C++, C#, HTML, CSS, JSON, SQL and about 75 other code formats |
+| `Archives` | zip, rar, 7z, tar, iso and similar |
+| `Installers` | exe, msi, msix |
+| `Other` | everything else |
 
-Windows may show a blue "Windows protected your PC" box the first time. Choose **More info**, then **Run anyway**. The [quick start](docs/QUICK-START.md) explains this and everything else on one page.
-
-## Why you might like it
-
-- **Nothing to install.** It uses PowerShell, which is already part of Windows 11.
-- **Preview first, undo any time.** Every move is logged as it happens, so even an interrupted sort can be undone.
-- **Safe.** It never deletes a file and never overwrites one. Copies of files you already have are set aside in `_copy` for you to look at.
-- **Fine to repeat.** Run it again next month and it only deals with what has piled up since.
+</details>
 
 ## Good to know
 
-- **Windows 11 only.** It was built and tested on Windows 11, using the PowerShell that comes with it. Other versions of Windows are not tested or supported, and it does not run on Mac or Linux.
-- It sorts by file type, using the file's extension. It does not read inside files.
+- **Windows 11 only.** Built and tested on Windows 11 with the PowerShell that comes with it. Other versions of Windows are not tested or supported, and it does not run on Mac or Linux.
+- It sorts by file type, using the extension. It does not read inside files.
 - It leaves alone anything hidden, any unfinished download, and anything changed in the last two minutes.
 - It runs when you start it. It does not watch the folder or run on a schedule.
 
-## More
-
-- [Quick start](docs/QUICK-START.md): one page, with what to do if something looks different.
-- [How it works](docs/HOW-IT-WORKS.md): every rule in plain English.
-- [How it compares](docs/COMPARISON.md): other tools, and when to pick them instead.
-
 ## Stress test, in short
 
-**20,000 files in one folder: sorted, sorted again and fully undone, with no file lost or overwritten.** It was also tried with files locked by other programs, two copies started at once, the log open in Excel, and sorts killed half-way. Details are in [the test notes](docs/TESTING.md).
+> **20,000 files in one folder: sorted, sorted again and fully undone, with no file lost or overwritten.**
+>
+> It was also tried with files locked by other programs, two copies started at once, the log open in Excel, and sorts killed half-way. Details are in [the test notes](docs/TESTING.md).
 
 ## Licence
 
-GNU General Public Licence, version 3. In short: you may use, change and share it, and if you share a changed version it must stay open source under the same licence. The full text is in [LICENSE](LICENSE).
+GNU General Public Licence, version 3. You may use, change and share it, and if you share a changed version it must stay open source under the same licence. See [LICENSE](LICENSE).
+
+<div align="center">
+<br>
+<sub>Made for Windows 11. If it saved you a tidy-up, a ⭐ helps other people find it.</sub>
+</div>

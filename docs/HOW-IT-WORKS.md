@@ -1,4 +1,6 @@
-﻿# How it works
+[← Back to README](../README.md)
+
+# How it works
 
 Plain English, in the order things happen. If you only want to use the tool, the [quick start](QUICK-START.md) is enough.
 
@@ -61,3 +63,7 @@ All at the top of `Sort-Downloads.ps1`:
 | `$MinAgeSeconds` | `120` | Skip files changed more recently than this. |
 | `$IncludeSubfolders` | none | Subfolders whose files should also be sorted. |
 | `$HashCheck` | off | Also spot copies by content, even with a different name. Slower. |
+
+---
+
+[← Back to README](../README.md)

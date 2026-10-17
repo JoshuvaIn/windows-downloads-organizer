@@ -1,3 +1,5 @@
+[← Back to README](../README.md)
+
 # How it compares
 
 Other tools tidy files too, and some are better at it in their own way. This page is an honest look at where Downloads Organizer fits. The details come from each project's own page (read 18 October 2026), and where a page does not say, this page says "not stated" rather than guessing. Check the links before relying on a detail.
@@ -39,3 +41,7 @@ Other tools tidy files too, and some are better at it in their own way. This pag
 ## About the pictures in this project
 
 They were made for this project. I did not copy images from other projects, because those belong to their authors. The terminal pictures come from real output of the tool on a demo folder.
+
+---
+
+[← Back to README](../README.md)

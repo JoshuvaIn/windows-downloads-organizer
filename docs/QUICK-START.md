@@ -1,3 +1,5 @@
+[← Back to README](../README.md)
+
 # Quick start (Windows 11)
 
 Five minutes. No installing, no settings. Built and tested for Windows 11.
@@ -54,3 +56,7 @@ Double-click **`Undo-Last-Sort.bat`**. Your files go back under their original n
 - No administrator rights are needed, and nothing is sent anywhere.
 - Keep the `history` folder inside `.sort` if you want undo to reach back over older sorts.
 - To change where file types go, open `Sort-Downloads.ps1` in Notepad. The settings are at the top, with plain-English notes.
+
+---
+
+[← Back to README](../README.md)

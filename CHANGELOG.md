@@ -6,6 +6,8 @@ All notable changes to Downloads Organizer. Dates are day/month/year.
 
 - README now opens with a wide picture, lists what you get, shows the folder structure, and ends with a short stress-test summary.
 - Pictures redrawn wider and with fewer files, so they read well on a web page; the flowchart has larger text.
+- New banner and social preview picture, badges, a feature grid and quick links at the top of the README.
+- Issue forms for problems and ideas, and a short contributing guide.
 
 ## 1.0.0 - 18/10/2026 (first release)
 

@@ -1,0 +1,31 @@
+name: Something went wrong
+description: Tell us about a file that was sorted wrongly, an error, or anything that did not work.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for taking the time. Please do not paste real file names you would rather keep private; made-up examples are fine.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: What the window showed
+      description: Copy the lines from the window, especially any FAILED or LEFT lines.
+      render: text
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version
+      description: Press Windows + R, type winver and press Enter.
+      placeholder: Windows 11 24H2
+  - type: dropdown
+    id: step
+    attributes:
+      label: Which button?
+      options: [Preview, Sort, Undo, Smoke test]
