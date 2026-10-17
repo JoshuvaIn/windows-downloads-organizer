@@ -2,6 +2,11 @@
 
 All notable changes to Downloads Organizer. Dates are day/month/year.
 
+## Unreleased
+
+- README now opens with a wide picture, lists what you get, shows the folder structure, and ends with a short stress-test summary.
+- Pictures redrawn wider and with fewer files, so they read well on a web page; the flowchart has larger text.
+
 ## 1.0.0 - 18/10/2026 (first release)
 
 - Sorts the loose files of a folder into `Images`, `Videos`, `Audio`, `Documents`, `MarkItdown`, `Archives`, `Installers`, `Code` and `Other`.

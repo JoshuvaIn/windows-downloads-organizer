@@ -1,103 +1,56 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="771" viewBox="0 0 880 771" role="img" aria-label="A Downloads folder in File Explorer before and after sorting">
-<rect width="880" height="771" rx="10" fill="#dbe7f5"/>
-<text x="20" y="36" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#0b3d6e">Before: everything loose</text><text x="460" y="36" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="18" font-weight="600" fill="#0b3d6e">After: sorted by type</text>
-<g transform="translate(20 56)">
-<rect x="0.5" y="0.5" width="399" height="694" rx="8" fill="#ffffff" stroke="#c8c8c8"/>
-<path d="M0.5 40 V8.5 a8 8 0 0 1 8 -8 H391.5 a8 8 0 0 1 8 8 V40 Z" fill="#eef1f6"/>
-<path d="M8 40 V13 a6 6 0 0 1 6 -6 H176 a6 6 0 0 1 6 6 V40 Z" fill="#ffffff"/>
-<g transform="translate(18 15)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
-<text x="42" y="28" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#1a1a1a">Downloads</text><path d="M162 20 l8 8 m0 -8 l-8 8" stroke="#555" stroke-width="1.2"/>
-<path d="M280 20 h10" stroke="#1a1a1a"/><rect x="323.5" y="15.5" width="9" height="9" fill="none" stroke="#1a1a1a"/><path d="M368 15 l10 10 m0 -10 l-10 10" stroke="#1a1a1a"/>
-<rect x="12" y="48" width="72" height="26" rx="5" fill="#f3f3f3" stroke="#e0e0e0"/><text x="24" y="66" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#1a1a1a">+ New</text>
-<rect x="12" y="82" width="376" height="28" rx="5" fill="#ffffff" stroke="#d6d6d6"/><text x="24" y="101" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#1a1a1a">This PC  &#8250;  Downloads  &#8250;</text>
-<text x="34" y="134" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="12" fill="#5c5c5c">Name</text><path d="M12 142 H388" stroke="#ececec"/>
-<g transform="translate(14 153)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#c19c00"/></g>
-<text x="36" y="165" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">backup.zip</text>
-<g transform="translate(14 176)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#217346"/></g>
-<text x="36" y="188" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">Budget.xlsx</text>
-<g transform="translate(14 199)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#8661c5"/></g>
-<text x="36" y="211" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">holiday-video.mp4</text>
-<g transform="translate(14 222)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#107c10"/></g>
-<text x="36" y="234" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">index.html</text>
-<g transform="translate(14 245)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#2b579a"/></g>
-<text x="36" y="257" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">Lecture notes.docx</text>
-<g transform="translate(14 268)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#0f7b9c"/></g>
-<text x="36" y="280" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">logo.png</text>
-<g transform="translate(14 291)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#107c10"/></g>
-<text x="36" y="303" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">Main.java</text>
-<g transform="translate(14 314)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#8a8a8a"/></g>
-<text x="36" y="326" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">mystery.xyz</text>
-<g transform="translate(14 337)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#0f7b9c"/></g>
-<text x="36" y="349" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">photo-001.jpg</text>
-<g transform="translate(14 360)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#5c5c5c"/></g>
-<text x="36" y="372" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">Project plan.md</text>
-<g transform="translate(14 383)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#107c10"/></g>
-<text x="36" y="395" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">script.py</text>
-<g transform="translate(14 406)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#0067c0"/></g>
-<text x="36" y="418" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">setup-tool.exe</text>
-<g transform="translate(14 429)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#e3008c"/></g>
-<text x="36" y="441" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">summer-song.mp3</text>
-<g transform="translate(14 452)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#d13438"/></g>
-<text x="36" y="464" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">Tax return 2025.pdf</text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450" role="img" aria-label="A Downloads folder in File Explorer before and after sorting">
+<rect width="1200" height="450" rx="12" fill="#dbe7f5"/>
+<text x="24" y="42" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#0b3d6e">Before: everything loose</text><text x="540" y="42" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="22" font-weight="600" fill="#0b3d6e">After: sorted by type, with one double-click</text>
+<g transform="translate(24 62)">
+<rect x="0.5" y="0.5" width="439" height="371" rx="8" fill="#ffffff" stroke="#b9b9b9"/>
+<path d="M0.5 44 V8.5 a8 8 0 0 1 8 -8 H431.5 a8 8 0 0 1 8 8 V44 Z" fill="#eef1f6"/>
+<path d="M8 44 V14 a6 6 0 0 1 6 -6 H200 a6 6 0 0 1 6 6 V44 Z" fill="#ffffff"/>
+<g transform="translate(20 16) scale(1.2)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
+<text x="46" y="31" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="14" fill="#1a1a1a">Downloads</text><path d="M182 22 l8 8 m0 -8 l-8 8" stroke="#555" stroke-width="1.3"/>
+<path d="M320 22 h10" stroke="#1a1a1a"/><rect x="363.5" y="17.5" width="9" height="9" fill="none" stroke="#1a1a1a"/><path d="M408 17 l10 10 m0 -10 l-10 10" stroke="#1a1a1a"/>
+<rect x="14" y="54" width="412" height="30" rx="5" fill="#ffffff" stroke="#d0d0d0"/><text x="28" y="74" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="14" fill="#1a1a1a">This PC  &#8250;  Downloads  &#8250;</text>
 
-<g transform="translate(460 56)">
-<rect x="0.5" y="0.5" width="399" height="694" rx="8" fill="#ffffff" stroke="#c8c8c8"/>
-<path d="M0.5 40 V8.5 a8 8 0 0 1 8 -8 H391.5 a8 8 0 0 1 8 8 V40 Z" fill="#eef1f6"/>
-<path d="M8 40 V13 a6 6 0 0 1 6 -6 H176 a6 6 0 0 1 6 6 V40 Z" fill="#ffffff"/>
-<g transform="translate(18 15)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
-<text x="42" y="28" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#1a1a1a">Downloads</text><path d="M162 20 l8 8 m0 -8 l-8 8" stroke="#555" stroke-width="1.2"/>
-<path d="M280 20 h10" stroke="#1a1a1a"/><rect x="323.5" y="15.5" width="9" height="9" fill="none" stroke="#1a1a1a"/><path d="M368 15 l10 10 m0 -10 l-10 10" stroke="#1a1a1a"/>
-<rect x="12" y="48" width="72" height="26" rx="5" fill="#f3f3f3" stroke="#e0e0e0"/><text x="24" y="66" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#1a1a1a">+ New</text>
-<rect x="12" y="82" width="376" height="28" rx="5" fill="#ffffff" stroke="#d6d6d6"/><text x="24" y="101" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="12.5" fill="#1a1a1a">This PC  &#8250;  Downloads  &#8250;</text>
-<text x="34" y="134" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="12" fill="#5c5c5c">Name</text><path d="M12 142 H388" stroke="#ececec"/>
-<g transform="translate(14 153)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
-<text x="36" y="165" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1a1a1a">Archives</text>
-<g transform="translate(34 176)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#c19c00"/></g>
-<text x="56" y="188" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">backup.zip</text>
-<g transform="translate(14 199)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
-<text x="36" y="211" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1a1a1a">Audio</text>
-<g transform="translate(34 222)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#e3008c"/></g>
-<text x="56" y="234" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">summer-song.mp3</text>
-<g transform="translate(14 245)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
-<text x="36" y="257" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1a1a1a">Code</text>
-<g transform="translate(34 268)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#107c10"/></g>
-<text x="56" y="280" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">index.html</text>
-<g transform="translate(34 291)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#107c10"/></g>
-<text x="56" y="303" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">Main.java</text>
-<g transform="translate(34 314)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#107c10"/></g>
-<text x="56" y="326" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">script.py</text>
-<g transform="translate(14 337)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
-<text x="36" y="349" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1a1a1a">Documents</text>
-<g transform="translate(34 360)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#d13438"/></g>
-<text x="56" y="372" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">260908 Tax return 2025.pdf</text>
-<g transform="translate(34 383)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#2b579a"/></g>
-<text x="56" y="395" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">260927 Lecture notes.docx</text>
-<g transform="translate(34 406)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#217346"/></g>
-<text x="56" y="418" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">Budget.xlsx</text>
-<g transform="translate(14 429)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
-<text x="36" y="441" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1a1a1a">Images</text>
-<g transform="translate(34 452)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#0f7b9c"/></g>
-<text x="56" y="464" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">logo.png</text>
-<g transform="translate(34 475)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#0f7b9c"/></g>
-<text x="56" y="487" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">photo-001.jpg</text>
-<g transform="translate(14 498)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
-<text x="36" y="510" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1a1a1a">Installers</text>
-<g transform="translate(34 521)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#0067c0"/></g>
-<text x="56" y="533" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">setup-tool.exe</text>
-<g transform="translate(14 544)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
-<text x="36" y="556" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1a1a1a">MarkItdown</text>
-<g transform="translate(34 567)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#5c5c5c"/></g>
-<text x="56" y="579" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">261006 Project plan.md</text>
-<g transform="translate(14 590)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
-<text x="36" y="602" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1a1a1a">Other</text>
-<g transform="translate(34 613)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#8a8a8a"/></g>
-<text x="56" y="625" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">mystery.xyz</text>
-<g transform="translate(14 636)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
-<text x="36" y="648" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#1a1a1a">Videos</text>
-<g transform="translate(34 659)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#8661c5"/></g>
-<text x="56" y="671" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#1a1a1a">holiday-video.mp4</text>
+<text x="40" y="122" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#5c5c5c">Name</text><path d="M14 130 H426" stroke="#e4e4e4"/>
+<g transform="translate(18 140) scale(1.35)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#c19c00"/></g>
+<text x="48" y="158" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="16" fill="#1a1a1a">backup.zip</text>
+<g transform="translate(18 176) scale(1.35)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#0f7b9c"/></g>
+<text x="48" y="194" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="16" fill="#1a1a1a">photo.jpg</text>
+<g transform="translate(18 212) scale(1.35)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#107c10"/></g>
+<text x="48" y="230" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="16" fill="#1a1a1a">script.py</text>
+<g transform="translate(18 248) scale(1.35)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#0067c0"/></g>
+<text x="48" y="266" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="16" fill="#1a1a1a">setup-tool.exe</text>
+<g transform="translate(18 284) scale(1.35)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#e3008c"/></g>
+<text x="48" y="302" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="16" fill="#1a1a1a">summer-song.mp3</text>
+<g transform="translate(18 320) scale(1.35)"><path d="M3 1 h6 l4 4 v9 a1 1 0 0 1 -1 1 H3 a1 1 0 0 1 -1 -1 V2 a1 1 0 0 1 1 -1 Z" fill="#ffffff" stroke="#9a9a9a"/><path d="M9 1 v4 h4" fill="#e9e9e9" stroke="#9a9a9a"/><rect x="4" y="9" width="8" height="4" rx="1" fill="#d13438"/></g>
+<text x="48" y="338" xml:space="preserve" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="16" fill="#1a1a1a">Tax return 2025.pdf</text>
 </g>
+<circle cx="502" cy="248" r="20" fill="#0067c0"/><path d="M493 248 h18 m-7 -7 l7 7 l-7 7" stroke="#ffffff" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(540 62)">
+<rect x="0.5" y="0.5" width="635" height="371" rx="8" fill="#ffffff" stroke="#b9b9b9"/>
+<path d="M0.5 44 V8.5 a8 8 0 0 1 8 -8 H627.5 a8 8 0 0 1 8 8 V44 Z" fill="#eef1f6"/>
+<path d="M8 44 V14 a6 6 0 0 1 6 -6 H200 a6 6 0 0 1 6 6 V44 Z" fill="#ffffff"/>
+<g transform="translate(20 16) scale(1.2)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
+<text x="46" y="31" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="14" fill="#1a1a1a">Downloads</text><path d="M182 22 l8 8 m0 -8 l-8 8" stroke="#555" stroke-width="1.3"/>
+<path d="M516 22 h10" stroke="#1a1a1a"/><rect x="559.5" y="17.5" width="9" height="9" fill="none" stroke="#1a1a1a"/><path d="M604 17 l10 10 m0 -10 l-10 10" stroke="#1a1a1a"/>
+<rect x="14" y="54" width="608" height="30" rx="5" fill="#ffffff" stroke="#d0d0d0"/><text x="28" y="74" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="14" fill="#1a1a1a">This PC  &#8250;  Downloads  &#8250;</text>
 
-<circle cx="440" cy="403.5" r="16" fill="#0067c0"/><path d="M433 403.5 h14 m-5 -5 l5 5 l-5 5" stroke="#ffffff" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(84 112) scale(3.4)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
+<text x="112" y="190" text-anchor="middle" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1a1a1a">Images</text>
+<text x="112" y="210" text-anchor="middle" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#5c5c5c">photo.jpg</text>
+<g transform="translate(284 112) scale(3.4)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
+<text x="312" y="190" text-anchor="middle" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1a1a1a">Documents</text>
+<text x="312" y="210" text-anchor="middle" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#5c5c5c">260908 Tax return 2025.pdf</text>
+<g transform="translate(484 112) scale(3.4)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
+<text x="512" y="190" text-anchor="middle" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1a1a1a">Audio</text>
+<text x="512" y="210" text-anchor="middle" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#5c5c5c">summer-song.mp3</text>
+<g transform="translate(84 238) scale(3.4)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
+<text x="112" y="316" text-anchor="middle" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1a1a1a">Installers</text>
+<text x="112" y="336" text-anchor="middle" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#5c5c5c">setup-tool.exe</text>
+<g transform="translate(284 238) scale(3.4)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
+<text x="312" y="316" text-anchor="middle" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1a1a1a">Archives</text>
+<text x="312" y="336" text-anchor="middle" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#5c5c5c">backup.zip</text>
+<g transform="translate(484 238) scale(3.4)"><path d="M1 3.5 a1 1 0 0 1 1 -1 h4 l1.5 1.5 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#e8b730"/><path d="M1 6.5 a1 1 0 0 1 1 -1 H14 a1 1 0 0 1 1 1 V13 a1 1 0 0 1 -1 1 H2 a1 1 0 0 1 -1 -1 Z" fill="#ffd35c"/></g>
+<text x="512" y="316" text-anchor="middle" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" fill="#1a1a1a">Code</text>
+<text x="512" y="336" text-anchor="middle" font-family="Segoe UI Variable Text, Segoe UI, Arial, sans-serif" font-size="13" fill="#5c5c5c">script.py</text>
+</g>
 </svg>

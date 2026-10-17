@@ -8,8 +8,11 @@ Copy the whole **`.sort`** folder into it. For most people that is `Downloads`.
 
 ```
 Downloads\
-    .sort\          <- the tool (copy this)
-    holiday.mp4     <- your loose files, still where they were
+    .sort\                          <- the tool (copy this folder)
+        Sort-Downloads-Preview.bat      look first, changes nothing
+        Sort-Downloads.bat              sort the files
+        Undo-Last-Sort.bat              put them back
+    holiday.mp4                     <- your loose files, still where they were
     invoice.pdf
 ```
 
