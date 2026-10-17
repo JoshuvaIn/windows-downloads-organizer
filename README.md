@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="docs/images/banner.png" alt="Downloads Organizer for Windows 11" width="100%">
 
@@ -26,10 +26,10 @@ See what will happen first, undo it any time, and nothing is ever deleted.
 
 <table>
 <tr>
-<td width="25%" valign="top"><h3>🖱️ One double-click</h3>No app to install and no rules to write. It uses the PowerShell already in Windows 11.</td>
-<td width="25%" valign="top"><h3>👀 Preview first</h3>See every move before it happens. The preview changes nothing at all.</td>
-<td width="25%" valign="top"><h3>↩️ Undo any time</h3>Every move is logged as it happens, so even an interrupted sort can be put back.</td>
-<td width="25%" valign="top"><h3>🛡️ Never deletes</h3>Nothing is deleted or overwritten. Copies of files you already have go to <code>_copy</code>.</td>
+<td width="25%" valign="top"><b>🖱️ One double-click</b><br><br>No app to install and no rules to write. It uses the PowerShell already in Windows 11.</td>
+<td width="25%" valign="top"><b>👀 Preview first</b><br><br>See every move before it happens. The preview changes nothing at all.</td>
+<td width="25%" valign="top"><b>↩️ Undo any time</b><br><br>Every move is logged as it happens, so even an interrupted sort can be put back.</td>
+<td width="25%" valign="top"><b>🛡️ Never deletes</b><br><br>Nothing is deleted or overwritten. Copies of files you already have go to <code>_copy</code>.</td>
 </tr>
 </table>
 
